@@ -1,0 +1,6 @@
+framework module Pods_CoreDataForm {
+  umbrella header "Pods-CoreDataForm-umbrella.h"
+
+  export *
+  module * { export * }
+}
